@@ -16,7 +16,7 @@
     "date-and-time": "^0.8.1",
     "del-cli": "^2.0.0",
     "escape-string-regexp": "^2.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "find-free-port": "^2.0.0",
     "firebase-tools": "^7.1.0",
     "glob": "^7.1.4",
